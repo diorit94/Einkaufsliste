@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "72890375308",
+    "firebase_url": "https://einkaufsliste-dc837.firebaseio.com",
+    "project_id": "einkaufsliste-dc837",
+    "storage_bucket": "einkaufsliste-dc837.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72890375308:android:a4073ff3899a8aed",
+        "android_client_info": {
+          "package_name": "com.codefrog.dioritbajrami.einkaufsliste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72890375308-fv0bit73m7ed9lsqsv3i13rbttc98i3o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codefrog.dioritbajrami.einkaufsliste",
+            "certificate_hash": "77a450c3f95f836638bc4f7d1a8ec5e2e19a5a3b"
+          }
+        },
+        {
+          "client_id": "72890375308-9auts39k45b2bqtv3hdk3dh588aeq3cu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYgjV4c6-d-KACxPijFU84CfeA4Mc3Ge4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72890375308-9auts39k45b2bqtv3hdk3dh588aeq3cu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72890375308:android:9af080c9a0b1d61d",
+        "android_client_info": {
+          "package_name": "com.example.dioritbajrami.einkaufsliste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72890375308-ltlaev0nbopmru9krioud60ham7rn63s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dioritbajrami.einkaufsliste",
+            "certificate_hash": "77a450c3f95f836638bc4f7d1a8ec5e2e19a5a3b"
+          }
+        },
+        {
+          "client_id": "72890375308-9auts39k45b2bqtv3hdk3dh588aeq3cu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYgjV4c6-d-KACxPijFU84CfeA4Mc3Ge4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72890375308-9auts39k45b2bqtv3hdk3dh588aeq3cu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

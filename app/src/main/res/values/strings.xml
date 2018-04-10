@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CodeFrog Einkaufsapp</string>
+    <string name="action_logout">Abmelden</string>
+    <string name="action_empfelungen">Empfehlungen</string>
+    <string name="title_activity_inside_list">Einkaufszettel</string>
+    <string name="title_activity_tabbed_ek_list">TabbedEkList</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_tabbed_einkaufs_liste">TabbedEinkaufsListe</string>
+    <string name="title_activity_tabbed">TabbedActivity</string>
+
+    <string name="Verwaltung">Verwaltung</string>
+    <string name="IT">IT</string>
+    <string name="title_activity_atest">ATEST</string>
+    <string name="title_activity_einkauf_activity">Einkauf_activity</string>
+    <string name="menu_neu">Neuer Einkauf</string>
+
+
+</resources>

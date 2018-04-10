@@ -1,0 +1,60 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="8dp">
+
+    <LinearLayout
+        android:id="@+id/layouetID"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/ammountID"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Ammount"
+            android:textSize="19sp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:id="@+id/nameID"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:text="ITEM "
+            android:textSize="21sp"
+            android:typeface="monospace" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/typeID"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/layouetID"
+        android:text="Oben/Unten" />
+
+    <com.balysv.materialripple.MaterialRippleLayout
+        android:id="@+id/ripple"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerInParent="true"
+        app:mrl_rippleColor="#2962FF"
+        app:mrl_rippleDelayClick="true"
+        app:mrl_rippleRoundedCorners="100dp">
+
+        <Button
+            android:id="@+id/deleteClickID"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_gravity="center"
+            android:background="@mipmap/ic_clear_black_24dp"
+            android:textAllCaps="false"
+            android:textSize="12sp" />
+    </com.balysv.materialripple.MaterialRippleLayout>
+
+</RelativeLayout>

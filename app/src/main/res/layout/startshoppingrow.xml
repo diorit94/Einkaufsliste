@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="8dp"
+    android:id="@+id/relativeLyout">
+
+    <LinearLayout
+        android:id="@+id/layouetID"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/ammountKaufID"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Ammount"
+            android:textSize="19sp"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:id="@+id/nameKaufID"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:text="ITEM "
+            android:textSize="21sp"
+            android:typeface="monospace" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/verwaltungKaufID"
+        android:layout_below="@+id/layouetID"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Oben/Unten" />
+
+    <CheckBox
+        android:id="@+id/checkBoxID"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerInParent="true"
+        />
+
+</RelativeLayout>
