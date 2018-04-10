@@ -36,7 +36,6 @@ public class MainActivity extends AppCompatActivity {
     private List<Einkaufsliste_Model> einkaufListe = new ArrayList<>();
     private RecyclerView recyclerView;
     private Einkaufsliste_Adapter mAdapter;
-    //some changes
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
