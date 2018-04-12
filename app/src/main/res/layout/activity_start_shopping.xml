@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.codefrog.dioritbajrami.einkaufsliste.Start_shopping_activity.StartShopping"
+    tools:context="com.codefrogapp.dioritbajrami.einkaufsliste.Start_shopping_activity.StartShopping"
     android:orientation="vertical">
 
     <android.support.design.widget.AppBarLayout

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.codefrog.dioritbajrami.einkaufsliste">
+    package="com.codefrogapp.dioritbajrami.einkaufsliste">
 
     <application
         android:allowBackup="true"
@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name="com.codefrog.dioritbajrami.einkaufsliste.MainActivity"
+            android:name="com.codefrogapp.dioritbajrami.einkaufsliste.MainActivity"
             android:label="@string/app_name"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
@@ -20,18 +20,18 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.codefrog.dioritbajrami.einkaufsliste.Einkaufsliste_Activity_classes.TabbedActivity"
+            android:name="com.codefrogapp.dioritbajrami.einkaufsliste.Einkaufsliste_Activity_classes.TabbedActivity"
             android:label="@string/title_activity_tabbed"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.codefrog.dioritbajrami.einkaufsliste.Start_shopping_activity.StartShopping"
+            android:name="com.codefrogapp.dioritbajrami.einkaufsliste.Start_shopping_activity.StartShopping"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name="com.codefrog.dioritbajrami.einkaufsliste.administrator_activity.Administrator_activity" />
+        <activity android:name="com.codefrogapp.dioritbajrami.einkaufsliste.administrator_activity.Administrator_activity" />
         <activity
-            android:name="com.codefrog.dioritbajrami.einkaufsliste.Einkauf_Activity.Einkauf_activity"
+            android:name="com.codefrogapp.dioritbajrami.einkaufsliste.Einkauf_Activity.Einkauf_activity"
             android:label="@string/title_activity_einkauf_activity"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name="com.codefrog.dioritbajrami.einkaufsliste.StartShoppingListView.StartShoppingListViewActivity"></activity>
+        <activity android:name="com.codefrogapp.dioritbajrami.einkaufsliste.StartShoppingListView.StartShoppingListViewActivity"></activity>
     </application>
 
 </manifest>

@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:72890375308:android:a4073ff3899a8aed",
         "android_client_info": {
-          "package_name": "com.codefrog.dioritbajrami.einkaufsliste"
+          "package_name": "com.codefrogapp.dioritbajrami.einkaufsliste"
         }
       },
       "oauth_client": [
@@ -18,7 +18,7 @@
           "client_id": "72890375308-fv0bit73m7ed9lsqsv3i13rbttc98i3o.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.codefrog.dioritbajrami.einkaufsliste",
+            "package_name": "com.codefrogapp.dioritbajrami.einkaufsliste",
             "certificate_hash": "77a450c3f95f836638bc4f7d1a8ec5e2e19a5a3b"
           }
         },
